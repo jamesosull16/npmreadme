@@ -1,10 +1,10 @@
-# test
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Testing a README.md generator
+[![License: IPL]](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 ---
 
 ## Description
 
-anvuiron
+It generates a readme.md file
 
 ---
 
@@ -25,30 +25,36 @@ anvuiron
 ## Installation
 
 To install dependencies, run the following command
+
+```
 npm i
+```
 
 ---
 ## Usage
 
-aoirva
+Be kind
 
 ---
 
 ## Licenses
 
-This project is licensed under the Apache 2.0 License
+This project is licensed under the IBM Public License Version 1.0
 
 ---
 
 ## Contributing
 
-oavn er
+upload good code onoy
 
 ---
 
 ## Tests
 
 To run tests, run the following command:
+
+```
 npm test
+```
 
   
