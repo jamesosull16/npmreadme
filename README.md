@@ -1,24 +1,24 @@
-# Testing a README.md generator
-
+# README.md Generator
 [![License: IPL](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+---
 
 ## Description
 
-It generates a readme.md file
+The readme generator will prompt the user a series of questions and based of the user's input, will generate a high quality readme file for their repository.
 
 ---
 
 ## Table of Contents
 
-- [Installation](#installation)
+* [Installation](#installation)
 
-- [Usage](#usage)
+* [Usage](#usage)
 
-- [License](#license)
+* [License](#license)
 
-- [Contributing](#contributing)
+* [Contributing](#contributing)
 
-- [Tests](#tests)
+* [Tests](#tests)
 
 ---
 
@@ -31,10 +31,9 @@ npm i
 ```
 
 ---
-
 ## Usage
 
-Be kind
+Please use best judgement.
 
 ---
 
@@ -46,7 +45,7 @@ This project is licensed under the IBM Public License Version 1.0
 
 ## Contributing
 
-upload good code onoy
+Ensure to use high quality and tested code.
 
 ---
 
@@ -55,5 +54,7 @@ upload good code onoy
 To run tests, run the following command:
 
 ```
-npm test
+none
 ```
+
+  
