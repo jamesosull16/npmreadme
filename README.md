@@ -1,6 +1,6 @@
 # Testing a README.md generator
-[![License: IPL]](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
----
+
+[![License: IPL](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 ## Description
 
@@ -10,15 +10,15 @@ It generates a readme.md file
 
 ## Table of Contents
 
-* [Installation](#installation)
+- [Installation](#installation)
 
-* [Usage](#usage)
+- [Usage](#usage)
 
-* [License](#license)
+- [License](#license)
 
-* [Contributing](#contributing)
+- [Contributing](#contributing)
 
-* [Tests](#tests)
+- [Tests](#tests)
 
 ---
 
@@ -31,6 +31,7 @@ npm i
 ```
 
 ---
+
 ## Usage
 
 Be kind
@@ -56,5 +57,3 @@ To run tests, run the following command:
 ```
 npm test
 ```
-
-  
